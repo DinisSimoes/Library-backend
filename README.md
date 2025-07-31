@@ -36,7 +36,7 @@ Update-Database
 ```
 **4. Execute a aplicação**
 
-## 🧪 Como rodar os testes
+## 🧪 Rodando os testes
 1. Abra a solução no Visual Studio
 2. Vá até a aba Test > Test Explorer
 3. Aguarde os testes carregarem
