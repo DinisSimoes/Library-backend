@@ -21,6 +21,7 @@ API REST para gerenciamento de uma biblioteca. Desenvolvida em **.NET 8**, utili
 ## 🚀 Como rodar o projeto localmente
 
 **1. Clone o repositório**
+
 **2. Suba o banco de dados PostgreSQL com Docker**: Rode o comando na raiz do projeto
 ```bash
 docker compose up -d
@@ -30,9 +31,9 @@ docker compose up -d
 1. Abra o Package Manager Console (Ferramentas > Gerenciador de Pacotes NuGet > Console do Gerenciador de Pacotes)
 2. Selecione o projeto Library.Infrastructure como "Projeto Padrão"
 3. Execute o comando:
-   ```bash
-   Update-Database
-   ```
+```bash
+Update-Database
+```
 **4. Execute a aplicação**
 
 ## 🧪 Como rodar os testes
